@@ -31,7 +31,6 @@ I am a Mechanical Engineer turned Data Enthusiast <img src="https://media.giphy.
 
 ## ⚡ Skills:
 **➡️ Languages**: <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=20></a>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=20></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height=20></a>
 
 **➡️ Data Science Packages**: <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height=20></a>
