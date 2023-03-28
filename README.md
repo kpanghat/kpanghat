@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Mechanical Engineer turned Data Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, working towards getting an Opporthinity in the field of Data and Machine Learning
+I am a Product Development Engineer with over 8 years of experience in Automotive Industry. I am curious about Data and related technologies. So, I am planning to shift my career towards Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and currently towards getting an opporthinity in the field of Data and Machine Learning
 
 - :telescope: I’m a graduate student at Northeastern University pursuing MS in Industrial Engineering with concentration in Data and Machine Learning.
 
