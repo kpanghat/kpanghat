@@ -28,16 +28,20 @@ I am a Mechanical Engineer turned Data Enthusiast <img src="https://media.giphy.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
----
 
-### :hammer_and_wrench: Languages and Tools :
+## ⚡ Skills:
+**➡️ Languages**: <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=20></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=20></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height=20></a>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R-Studio" alt="R-Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-</div>
+**➡️ Data Science Packages**: <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height=20></a>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height=20></a>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height=20></a>
+
+**➡️ Tools**: <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height=20></a>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height=20></a>
+<img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" height=20></a>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
 
 ---
 
