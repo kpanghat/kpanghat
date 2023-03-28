@@ -26,7 +26,7 @@ I am a Mechanical Engineer turned Data Enthusiast <img src="https://media.giphy.
 
 - :zap: Planning to start Leetcode this summer 2023
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karthikpanghat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikpanghat/)
 
 
 ## ⚡ Skills:
