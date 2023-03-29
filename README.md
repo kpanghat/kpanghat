@@ -18,13 +18,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Product Development Engineer with over 8 years of experience in Automotive Industry. I am curious about Data and related technologies. So, I am planning to shift my career towards Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and currently towards getting an opporthinity in the field of Data and Machine Learning
+I am a Product Development Engineer with over 8 years of experience in Automotive Industry. I am passionate about working in an environment where statistical analysis and analytical techniques can be applied for delivering valuable business insights. I have a keen interest in applying Data Science, Data Mining and visualization techniques to solve real-world problems. So, I decided to pursue career in the field  of Data and Business Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and currently looking forward for an opporthinity in the field of Data Science, Data Analytics and Business Intelligence.
 
 - :telescope: I’m a graduate student at Northeastern University pursuing MS in Industrial Engineering with concentration in Data and Machine Learning.
 
 - :seedling: Exploring opportunities in the field of Data Science.
 
-- :zap: Planning to start Leetcode this summer 2023
+- :zap: Upgrade my skills in the area of Machine Learning. I am currently learning Supervised and Unsupervised ML techniques through IE 7300 (Machine Learning for Engineering) at Northeastern University. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karthikpanghat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikpanghat/)
 
