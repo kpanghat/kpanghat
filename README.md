@@ -24,7 +24,7 @@ I am a Product Development Engineer with over 8 years of experience in Automotiv
 
 - :seedling: Exploring opportunities in the field of Data Science.
 
-- :zap: Upgrade my skills in the area of Machine Learning. I am currently learning Supervised and Unsupervised ML techniques through IE 7300 (Machine Learning for Engineering) at Northeastern University. 
+- :zap: Upgrading my skills in the area of Machine Learning. I am currently learning Supervised and Unsupervised ML techniques through IE 7300 (Machine Learning for Engineering) at Northeastern University. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karthikpanghat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikpanghat/)
 
