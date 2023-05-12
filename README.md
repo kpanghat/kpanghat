@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Product Development Engineer with over 8 years of experience in Automotive Industry. I am passionate about working in an environment where statistical analysis and analytical techniques can be applied for delivering valuable business insights. I have a keen interest in applying Data Science, Data Mining and visualization techniques to solve real-world problems. So, I decided to pursue career in the field  of Data and Business Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and currently looking forward for an opporthinity in the field of Data Science, Data Analytics and Business Intelligence.
+I am a Product Development Engineer with over 8 years of experience in Automotive Industry. I am passionate about working in an environment where statistical analysis and analytical techniques can be applied for delivering valuable business insights. I have a keen interest in applying Data Science, Data Mining and visualization techniques to solve real-world problems. So, I decided to pursue career in the field  of Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and currently looking forward for an opporthinity in the field of Data Science, Data Analytics and Business Intelligence and Supply Chain Analytics.
 
 - :telescope: I’m a graduate student at Northeastern University pursuing MS in Industrial Engineering with concentration in Data and Machine Learning.
 
